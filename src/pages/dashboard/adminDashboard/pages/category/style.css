@@ -1,0 +1,31 @@
+.categroy_form {
+  max-width: 40%;
+  background-color: #ccc;
+  margin: 50px auto;
+  padding: 30px;
+}
+.categroy_form h2 {
+  text-align: center;
+  padding-bottom: 20px;
+}
+.categroy_form input {
+  width: 90%;
+  outline: none;
+  border: 1px solid #000;
+  border-radius: 4px;
+  padding: 7px 10px;
+  margin-top: 5px;
+}
+.categroy_form .button {
+  padding-top: 20px;
+}
+.categroy_form button {
+  width: 120px;
+  padding: 8px 10px;
+  border: none;
+  outline: none;
+  background-color: #000;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 4px;
+}
